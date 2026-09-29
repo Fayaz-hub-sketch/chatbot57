@@ -1,0 +1,1 @@
+Gemini 3.1 Flash-Lite academic chatbot with Google Search grounding for current information.
